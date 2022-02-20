@@ -20,7 +20,7 @@ Roadmap & Improvements to be made:
 <br/>
 <br/>
 
-Order of Contracts Included in main contract
+Order of contracts Included in main contract
  * Context.sol
  * SafeMath.sol
  * IERC20.sol
