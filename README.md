@@ -1,9 +1,13 @@
 # Hybrid Multi Collateral (Testnet)
 
 ### HMC is a native hybrid model stablecoin on Harmony
-### This project is still underdevelopment with it only being able to mint HMC using ONE and HMCS as collateral
+### This project is still under development with it only being able to mint HMC using ONE and HMCS as collateral
 
-Improvements to be made:
+HMC_V0.42.sol is the main contract that is deployed on Harmony's Testnet:
+HMC address: 0xb8c9300d2e77cde5a94e781417bc1412c9d752ba
+HMCS address: 0x42e31a89100e32c0f912c6df2521b8ec7c576600
+
+Roadmap & Improvements to be made:
  * Setup Sushi pairs
  * Switch from ONE<>HMCS to MAI<>HMCS
  * Add ONE as a collateral type instead of HMCS
