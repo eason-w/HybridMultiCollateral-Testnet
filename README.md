@@ -10,7 +10,7 @@ HMC address: 0xb8c9300d2e77cde5a94e781417bc1412c9d752ba
 HMCS address: 0x42e31a89100e32c0f912c6df2521b8ec7c576600
 <br/>
 <br/>
-<br/>
+
 Roadmap & Improvements to be made:
  * Setup Sushi pairs
  * Switch from ONE<>HMCS to MAI<>HMCS
@@ -19,7 +19,7 @@ Roadmap & Improvements to be made:
  * Deploy on mainnet + get an audit
 <br/>
 <br/>
-<br/>
+
 Order of Contracts Included in main contract
  * Context.sol
  * SafeMath.sol
