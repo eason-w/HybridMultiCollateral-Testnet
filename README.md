@@ -12,6 +12,7 @@ HMCS address: 0x42e31a89100e32c0f912c6df2521b8ec7c576600
 <br/>
 
 Roadmap & Improvements to be made:
+ * Create a frontend
  * Setup Sushi pairs
  * Switch from ONE<>HMCS to MAI<>HMCS
  * Add ONE as a collateral type instead of HMCS
